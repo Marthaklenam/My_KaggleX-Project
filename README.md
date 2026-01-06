@@ -1,3 +1,3 @@
 # My_KaggleX-Project
-Final Project for data science and machine learning project with KaggleX
+Award winning KaggleX Project on using Chronic Kidney Disease Prediction using Machine Learning
 
